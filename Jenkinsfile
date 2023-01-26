@@ -3,7 +3,7 @@ pipeline {
     stages {
         stage ("BUILD"){
             steps{
-                echo "Build is successful"
+                echo "Build is successful-1223"
             }
         }
         stage ("TEST"){
